@@ -2,79 +2,50 @@
   "productos": {
     "pesca": [
       {
-        "tipo": "reel",
-        "nombre": "Reel Huevito KastKing Brutus",
+        "tipo": "señuelos",
+        "nombre": "Señuelo Ranita Antienganche 5g",
         "descripcion": [
-          "Posición: Apto para uso en lago, río, estanque, arroyo y campo de gestión",
-          "Categoría: Carrete de pesca de señuelo",
-          "Potencia de arrastre: 8KG",
-          "Relación de engranajes: 7:2:1",
-          "Capacidad de línea métrica: 0.27mm/140m, 0.33mm/90m, 0.35mm/80m",
-          "Capacidad de línea trenzada: 0.28mm/130m, 0.31mm/105m, 0.33mm/90m",
-          "Peso: 210g",
-          "Manija: Izquierda",
-          "Sistema de freno dual: Freno magnético"
+          "Especial para tarariras",
+          "Peso: 5 gramos",
+          "Material: Pvc"
         ],
-        "stock": "nuevo ingreso",
-        "marca": "kastking",
-        "envioGratis": "true",
-        "codigo": "PESCA0598",
+        "stock": "stock disponible",
+        "codigo": "PESCA0012",
         "imagenes": [
-         "kastking_2.webp",
-         "kastking_1.webp",
-         "kastking_4.webp"
+          "froganti1.webp",
+          "froganti2.webp",
+          "froganti3.webp"
         ],
         "imagenesVertical": [
-          "kastking_5.webp",
-          "kastking_1.webp",
-          "kastking_2.webp",
-          "kastking_3.webp"
-
+          "frogantiV-1.webp",
+          "frogantiV-2.webp",
+          "frogantiV-3.webp",
+          "frogantiV-4.webp"
         ],
-        "precio": 77900,
+        "precio": 2800,
         "cantidad": 1
       },
       {
-        "tipo": "reel",
-        "nombre": "Reel Huevito CASTER Unlimited Pro 110 Bait Casting 10 Rulemanes 7.2:1",
+        "tipo": "señuelos",
+        "nombre": "Señuelo 2.8cm",
         "descripcion": [
-          "Mano: Derecha",
-          "9 + 1 RULEMANES blindados de acero inoxidable MaxiDur™",
-          "Relación de giro de alta velocidad: 7.2:1",
-          "Capacidad mm/m: multifilamento 0.18/100 - monofilamento 0.30/120",
-          "Peso: 205 gramos",
-          "Max Drag: 18 libras",
-          "Engranaje y piñon de bronce",
-          "Freno magnético de 10 imanes con regulación externa",
-          "Alarma automática de salida de línea (chicharra)",
-          "Sistema de desarme rápido de tapa lateral",
-          "Cuerpo de bajo perfil construido en grafito de alta resistencia GraphMax™",
-          "Carretel de aluminio CNC forjado y alivianado",
-          "Manija doble de aluminio CNC reforzada y alivianada con empuñaduras de goma eva",
-          "Devanador automático sincronizado en forma ovalada para evitar la fricción en el lanzamiento"
+          "medidas: 2.8cm",
+          "peso: 1.5g",
+          "Consulte por mas colores disponibles!"
         ],
         "stock": "stock disponible",
-        "marca": "caster",
-        "envioGratis": "true",
-        "codigo": "PESCA0011",
+        "codigo": "PESCALR004",
         "imagenes": [
-          "reelHuevitoUnlimited-1.webp",
-          "reelHuevitoUnlimited-2.webp"
+          "senuelo_LR004.webp"
         ],
         "imagenesVertical": [
-          "unlimited110V-1.webp",
-          "unlimited110V-2.webp",
-          "unlimited110V-3.webp",
-          "unlimited110V-7.webp",
-          "unlimited110V-4.webp",
-          "unlimited110V-5.webp",
-          "unlimited110V-6.webp",
-          "unlimited110V-8.webp",
-          "unlimited110V-9.webp"
+          "senuelolr004V-1.webp",
+          "senuelolr004V-2.webp"
         ],
-        "precio": 59800,
+        "precio": 1500,
         "cantidad": 1
       },
+     
       {
         "codigo": "PESCA0031",
         "tipo": "cañas",
@@ -103,10 +74,13 @@
         "imagenes": [
           "BLUEMAX-BC1802M-400_11zon.webp"
         ],
-        "imagenesVertical": ["blue_max_cania.webp"],
-        "precio": 19900,
+        "imagenesVertical": [
+          "blue_max_cania.webp"
+        ],
+        "precio": 21890,
         "cantidad": 1
       },
+ 
       {
         "codigo": "PESCA0032",
         "tipo": "cañas",
@@ -135,8 +109,10 @@
         "imagenes": [
           "COBRA-BC1802M-400_11zon.webp"
         ],
-        "imagenesVertical": ["cobra_cania.webp"],
-        "precio": 19900,
+        "imagenesVertical": [
+          "cobra_cania.webp"
+        ],
+        "precio": 21890,
         "cantidad": 1
       },
       {
@@ -166,8 +142,8 @@
         "imagenes": [
           "SOLID-SE2102S-400_11zon.webp"
         ],
-        "imagenesVertical": ["beast_solid_vertical.webp"],
-        "precio": 14500,
+     
+        "precio": 15950,
         "cantidad": 1
       },
       {
@@ -196,8 +172,8 @@
         "imagenes": [
           "VALIANTGSP.webp"
         ],
-        "imagenesVertical": ["cania_valiant_vertical.webp"],
-        "precio": 32500,
+     
+        "precio": 35750,
         "cantidad": 1
       },
       {
@@ -228,8 +204,42 @@
         "imagenes": [
           "XTREMECHAOS-GSP2102MH.webp"
         ],
-        "imagenesVertical": ["cania_xtreme_vertical.webp"],
-        "precio": 31500,
+        "imagenesVertical": [
+          "cania_xtreme_vertical.webp"
+        ],
+        "precio": 34650,
+        "cantidad": 1
+      },
+      {
+        "tipo": "reel",
+        "nombre": "Reel Huevito KastKing Brutus",
+        "descripcion": [
+          "Posición: Apto para uso en lago, río, estanque, arroyo y campo de gestión",
+          "Categoría: Carrete de pesca de señuelo",
+          "Potencia de arrastre: 8KG",
+          "Relación de engranajes: 7:2:1",
+          "Capacidad de línea métrica: 0.27mm/140m, 0.33mm/90m, 0.35mm/80m",
+          "Capacidad de línea trenzada: 0.28mm/130m, 0.31mm/105m, 0.33mm/90m",
+          "Peso: 210g",
+          "Manija: Izquierda",
+          "Sistema de freno dual: Freno magnético"
+        ],
+        "stock": "nuevo ingreso",
+        "marca": "kastking",
+        "envioGratis": "true",
+        "codigo": "PESCA0598",
+        "imagenes": [
+          "kastking_2.webp",
+          "kastking_1.webp",
+          "kastking_4.webp"
+        ],
+        "imagenesVertical": [
+          "kastking_5.webp",
+          "kastking_1.webp",
+          "kastking_2.webp",
+          "kastking_3.webp"
+        ],
+        "precio": 77900,
         "cantidad": 1
       },
       {
@@ -258,48 +268,43 @@
           "REDMAX104L.webp"
         ],
         "imagenesVertical": [],
-        "precio": 31900,
+        "precio": 35090,
         "cantidad": 1
       },
       {
-        "codigo": "PESCA0037",
-        "tipo": "reel",
-        "nombre": "Reel Frontal BEAST SE200 Pejerrey Spinning Variada Rio 3 Rulemanes",
+        "tipo": "leaders",
+        "nombre": "Cable De Acero Leaders Armados CASTER 15cm 20 Lb x 10 Unidades",
         "descripcion": [
-          "3 RULEMANES",
-          "Radio de giro: 5.2:1",
-          "Capacidad de monofilamento mm/m: 0.18/245 - 0.20/200 - 0.25/125",
-          "Incluye carga de nylon",
-          "Max drag: 3 kg",
-          "Peso: 155 gramos",
-          "Sistema de freno delantero",
-          "Cuerpo y carretel construidos en grafito",
-          "Manija de grafito intercambiable izquierda/derecha",
-          "Tipo de caña utilizable: Spinning",
-          "Modalidades de pesca: Variada liviana en río y laguna"
+          "Cable de acero armado con esmerillón y mosquetón de acero inoxidable",
+          "Ideal para pesca de peces depredadores con carnada",
+          "Resistencia: 20 libras",
+          "Medida: 15cm",
+          "Color: plata",
+          "Presentación: bolsita de 10 unidades"
         ],
-        "stock": "nuevo ingreso",
-        "marca": "beast",
+        "stock": "stock disponible",
+        "marca": "caster",
+        "codigo": "PESCA0005",
         "imagenes": [
-          "SE200-YELLOW_11zon.webp"
+          "leader15CM-1.webp"
         ],
-        "imagenesVertical": [],
-        "precio": 8700,
+  
+        "precio": 3190,
         "cantidad": 1
       },
+     
       {
         "codigo": "PESCA943",
         "tipo": "señuelos",
         "nombre": "Señuelo Whopper Plopper",
-        "descripcion": [
-  
-        ],
+        "descripcion": [],
         "stock": "nuevo ingreso",
-       
         "imagenes": [
           "whoppler_plopper.webp"
         ],
-        "imagenesVertical": [ "whopper_plopper_vertical.webp"],
+        "imagenesVertical": [
+          "whopper_plopper_vertical.webp"
+        ],
         "precio": 3800,
         "cantidad": 1
       },
@@ -330,7 +335,7 @@
           "BLACKWIDOW108L_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 56700,
+        "precio": 62370,
         "cantidad": 1
       },
       {
@@ -360,7 +365,30 @@
           "CAYMAN4001_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 20200,
+        "precio": 22220,
+        "cantidad": 1
+      },
+      {
+        "tipo": "combos",
+        "nombre": "Combo BaitCasting 3",
+        "descripcion": [
+          "Reel Huevito Beast",
+          "Caña Caster BlackFighter 1.80mt"
+        ],
+        "stock": "stock disponible",
+        "marca": "caster",
+        "codigo": "PESCA0033",
+        "imagenes": [
+          "combobaitcast-3.webp",
+          "reelHuevoMonster-1.webp",
+          "caniaBlackFighter-BC1802M-1.webp"
+        ],
+        "imagenesVertical": [
+          "reelhuevomonsterV-6.webp",
+          "caniablackfighterV-1.webp",
+          "reelhuevomonsterV-4.webp"
+        ],
+        "precio": 39900,
         "cantidad": 1
       },
       {
@@ -380,8 +408,10 @@
         "imagenes": [
           "LF-PROPRAT-C4_11zon.webp"
         ],
-        "imagenesVertical": ["proprat_caster_vertical.webp"],
-        "precio": 5300,
+        "imagenesVertical": [
+          "proprat_caster_vertical.webp"
+        ],
+        "precio": 5830,
         "cantidad": 1
       },
       {
@@ -406,9 +436,8 @@
         "imagenesVertical": [
           "deep_senuelo_1.webp",
           "deep_senuelo_2.webp"
-
         ],
-        "precio": 5700,
+        "precio": 6270,
         "cantidad": 1
       },
       {
@@ -431,7 +460,7 @@
           "LHPRO-GTOAD-C15_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 5300,
+        "precio": 5830,
         "cantidad": 1
       },
       {
@@ -455,9 +484,8 @@
         "imagenesVertical": [
           "caja_caster_12_vertical_1.webp",
           "caja_caster_12_vertical_2.webp"
-
         ],
-        "precio": 8100,
+        "precio": 8910,
         "cantidad": 1
       },
       {
@@ -479,7 +507,7 @@
           "TBOX-002_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 9500,
+        "precio": 10450,
         "cantidad": 1
       },
       {
@@ -493,7 +521,7 @@
           "multifilamentoamarillo_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -507,7 +535,7 @@
           "multifilamentogris_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -521,7 +549,7 @@
           "multifilamentoverde_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -535,7 +563,7 @@
           "multifilamentoamarillo_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -549,7 +577,7 @@
           "multifilamentonaranja_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -563,7 +591,7 @@
           "multifilamentoamarillo_11zon.webp"
         ],
         "imagenesVertical": [],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -582,11 +610,9 @@
         "imagenes": [
           "HOOKS-W10.webp"
         ],
-        "imagenesVertical": [],
-        "precio": 1600,
+        "precio": 1760,
         "cantidad": 1
       },
-      
       {
         "codigo": "H0605",
         "tipo": "organizadores",
@@ -595,8 +621,12 @@
         "stock": "nuevo ingreso",
         "marca": "redfish",
         "envioGratis": "",
-        "imagenes": ["caja_chica_H0605.webp"],
-        "imagenesVertical": ["caja_organizadora_H0605_vertical.webp"],
+        "imagenes": [
+          "caja_chica_H0605.webp"
+        ],
+        "imagenesVertical": [
+          "caja_organizadora_H0605_vertical.webp"
+        ],
         "precio": 1900,
         "cantidad": 1
       },
@@ -607,8 +637,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["caja_chica_H434.webp"],
-        "imagenesVertical": ["caja_organizadora_H434_vertical.webp"],
+        "imagenes": [
+          "caja_chica_H434.webp"
+        ],
+        "imagenesVertical": [
+          "caja_organizadora_H434_vertical.webp"
+        ],
         "precio": 2500,
         "cantidad": 1
       },
@@ -619,7 +653,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["caja_chica_H0510A.webp"],
+        "imagenes": [
+          "caja_chica_H0510A.webp"
+        ],
         "imagenesVertical": [],
         "precio": 2900,
         "cantidad": 1
@@ -631,7 +667,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["caja_chica_ H0310C.webp"],
+        "imagenes": [
+          "caja_chica_ H0310C.webp"
+        ],
         "imagenesVertical": [],
         "precio": 3400,
         "cantidad": 1
@@ -643,8 +681,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["funda_reel_RBC001.webp"],
-        "imagenesVertical": ["funda_redfish_vertical.webp"],
+        "imagenes": [
+          "funda_reel_RBC001.webp"
+        ],
+        "imagenesVertical": [
+          "funda_redfish_vertical.webp"
+        ],
         "precio": 5500,
         "cantidad": 1
       },
@@ -655,8 +697,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["navaja_engomada.webp"],
-        "imagenesVertical": ["navaja_redfish_vertical.webp"],
+        "imagenes": [
+          "navaja_engomada.webp"
+        ],
+        "imagenesVertical": [
+          "navaja_redfish_vertical.webp"
+        ],
         "precio": 9300,
         "cantidad": 1
       },
@@ -667,7 +713,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["nylon_redfish.webp"],
+        "imagenes": [
+          "nylon_redfish.webp"
+        ],
         "imagenesVertical": [],
         "precio": 1900,
         "cantidad": 1
@@ -679,7 +727,9 @@
         "descripcion": [],
         "stock": "",
         "marca": "",
-        "imagenes": ["nylon_redfish.webp"],
+        "imagenes": [
+          "nylon_redfish.webp"
+        ],
         "imagenesVertical": [],
         "precio": 1600,
         "cantidad": 1
@@ -691,7 +741,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["nylon_redfish.webp"],
+        "imagenes": [
+          "nylon_redfish.webp"
+        ],
         "imagenesVertical": [],
         "precio": 2400,
         "cantidad": 1
@@ -703,7 +755,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["boyas_esfericas.webp"],
+        "imagenes": [
+          "boyas_esfericas.webp"
+        ],
         "imagenesVertical": [],
         "precio": 2800,
         "cantidad": 1
@@ -715,8 +769,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["gomas_soft_redfish.webp"],
-        "imagenesVertical": ["gomas_soft_redfish_vertical.webp"],
+        "imagenes": [
+          "gomas_soft_redfish.webp"
+        ],
+        "imagenesVertical": [
+          "gomas_soft_redfish_vertical.webp"
+        ],
         "precio": 2800,
         "cantidad": 1
       },
@@ -727,8 +785,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["lombriz_saborizada.webp"],
-        "imagenesVertical": ["lombriz_saborizada_vertical.webp"],
+        "imagenes": [
+          "lombriz_saborizada.webp"
+        ],
+        "imagenesVertical": [
+          "lombriz_saborizada_vertical.webp"
+        ],
         "precio": 4800,
         "cantidad": 1
       },
@@ -739,8 +801,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["posacania.webp"],
-        "imagenesVertical": ["posacania_vertical.webp"],
+        "imagenes": [
+          "posacania.webp"
+        ],
+        "imagenesVertical": [
+          "posacania_vertical.webp"
+        ],
         "precio": 2900,
         "cantidad": 1
       },
@@ -751,8 +817,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["hundimiendo_redfish_BJ003.webp"],
-        "imagenesVertical": ["senuelo_paletudo_redfish_1.webp"],
+        "imagenes": [
+          "hundimiendo_redfish_BJ003.webp"
+        ],
+        "imagenesVertical": [
+          "senuelo_paletudo_redfish_1.webp"
+        ],
         "precio": 3500,
         "cantidad": 1
       },
@@ -763,7 +833,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["atrapamojarra.webp"],
+        "imagenes": [
+          "atrapamojarra.webp"
+        ],
         "imagenesVertical": [],
         "precio": 4800,
         "cantidad": 1
@@ -775,7 +847,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["cable_acero_60lb.webp"],
+        "imagenes": [
+          "cable_acero_60lb.webp"
+        ],
         "imagenesVertical": [],
         "precio": 3180,
         "cantidad": 1
@@ -787,7 +861,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["cinta_extensible.webp"],
+        "imagenes": [
+          "cinta_extensible.webp"
+        ],
         "imagenesVertical": [],
         "precio": 2900,
         "cantidad": 1
@@ -799,7 +875,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["cascabel_luz.webp"],
+        "imagenes": [
+          "cascabel_luz.webp"
+        ],
         "imagenesVertical": [],
         "precio": 930,
         "cantidad": 1
@@ -811,7 +889,9 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["cuchara_ondulante.webp"],
+        "imagenes": [
+          "cuchara_ondulante.webp"
+        ],
         "imagenesVertical": [],
         "precio": 4100,
         "cantidad": 1
@@ -823,8 +903,12 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": ["popper_redfish.webp"],
-        "imagenesVertical": ["popper_redfish_vertical.webp"],
+        "imagenes": [
+          "popper_redfish.webp"
+        ],
+        "imagenesVertical": [
+          "popper_redfish_vertical.webp"
+        ],
         "precio": 3800,
         "cantidad": 1
       },
@@ -853,41 +937,7 @@
           "reelFrontalFlex4002-1.webp",
           "reelFrontalFlex4002-2.webp"
         ],
-        "imagenesVertical": [
-          "casterflexV-1.webp",
-          "casterflexV-2.webp",
-          "casterflexV-3.webp",
-          "casterflexV-4.webp",
-          "casterflexV-5.webp",
-          "casterflexV-6.webp",
-          "casterflexV-7.webp",
-          "casterflexV-8.webp"
-        ],
-        "precio": 21700,
-        "cantidad": 1
-      },
-      {
-        "tipo": "señuelos",
-        "nombre": "Señuelo Ranita Antienganche 5g",
-        "descripcion": [
-          "Especial para tarariras",
-          "Peso: 5 gramos",
-          "Material: Pvc"
-        ],
-        "stock": "stock disponible",
-        "codigo": "PESCA0012",
-        "imagenes": [
-          "froganti1.webp",
-          "froganti2.webp",
-          "froganti3.webp"
-        ],
-        "imagenesVertical": [
-          "frogantiV-1.webp",
-          "frogantiV-2.webp",
-          "frogantiV-3.webp",
-          "frogantiV-4.webp"
-        ],
-        "precio": 2800,
+        "precio": 23720,
         "cantidad": 1
       },
       {
@@ -926,12 +976,7 @@
           "senueloBigFrog-1.webp",
           "senueloBigFrog-2.webp"
         ],
-        "imagenesVertical": [
-          "senueloBigFrogV-1.webp",
-          "senueloBigFrogV-2.webp",
-          "senueloBigFrogV-3.webp"
-        ],
-        "precio": 2300,
+        "precio": 2530,
         "cantidad": 1
       },
       {
@@ -953,7 +998,7 @@
           "reelfrontalcasterblackwidowV-8.webp",
           "caniaspeedforceV-2.webp"
         ],
-        "precio": 55400,
+        "precio": 61600,
         "cantidad": 1
       },
       {
@@ -977,7 +1022,7 @@
         "imagenesVertical": [
           "anzueloPlomadoV-1.webp"
         ],
-        "precio": 2300,
+        "precio": 2530,
         "cantidad": 1
       },
       {
@@ -1004,12 +1049,7 @@
           "bogaGrip-1.webp",
           "bogaGrip-2.webp"
         ],
-        "imagenesVertical": [
-          "bogagripV-1.webp",
-          "bogagripV-2.webp",
-          "bogagripV-3.webp"
-        ],
-        "precio": 8300,
+        "precio": 9130,
         "cantidad": 1
       },
       {
@@ -1036,12 +1076,7 @@
         "imagenes": [
           "caniaSpeedForcegsp1902m-1.webp"
         ],
-        "imagenesVertical": [
-          "caniaspeedforceV-2.webp",
-          "caniaspeedforceV-1.webp",
-          "caniaspeedforceV-3.webp"
-        ],
-        "precio": 20100,
+        "precio": 22110,
         "cantidad": 1
       },
       {
@@ -1070,37 +1105,11 @@
         "imagenes": [
           "caniaBlackFighter-BC1802M-1.webp"
         ],
-        "imagenesVertical": [
-          "caniablackfighterV-1.webp",
-          "caniablackfighterV-2.webp"
-        ],
-        "precio": 19900,
+    
+        "precio": 21890,
         "cantidad": 1
       },
-      {
-        "tipo": "leaders",
-        "nombre": "Cable De Acero Leaders Armados CASTER 15cm 20 Lb x 10 Unidades",
-        "descripcion": [
-          "Cable de acero armado con esmerillón y mosquetón de acero inoxidable",
-          "Ideal para pesca de peces depredadores con carnada",
-          "Resistencia: 20 libras",
-          "Medida: 15cm",
-          "Color: plata",
-          "Presentación: bolsita de 10 unidades"
-        ],
-        "stock": "stock disponible",
-        "marca": "caster",
-        "codigo": "PESCA0005",
-        "imagenes": [
-          "leader15CM-1.webp"
-        ],
-        "imagenesVertical": [
-          "leader15cmV-1.webp",
-          "leader15cmV-2.webp"
-        ],
-        "precio": 2900,
-        "cantidad": 1
-      },
+ 
       {
         "tipo": "reel",
         "nombre": "Reel Huevito Monster Beast",
@@ -1138,25 +1147,7 @@
         "precio": 25000,
         "cantidad": 1
       },
-      {
-        "tipo": "mosquetones",
-        "nombre": "Mosquetones CASTER #1 Acero Inoxidable Negros 13kg 100 Unidades",
-        "descripcion": [
-          "Mosquetones de acero inoxidable negros",
-          "Número: 1",
-          "Resistencia: 13 kg",
-          "Medida: 2,1 cm de largo",
-          "Presentación: bolsita de 100 unidades"
-        ],
-        "stock": "stock disponible",
-        "marca": "caster",
-        "codigo": "PESCA0006",
-        "imagenes": [
-          "mosquetones13kg-1.webp"
-        ],
-        "precio": 5300,
-        "cantidad": 1
-      },
+
       {
         "tipo": "multifilamento",
         "nombre": "Multifilamento Castforce 4x 0.18mm 12,3kg 27lb 100m Verde",
@@ -1177,7 +1168,7 @@
           "multifilamentoverde0.18V-2.webp",
           "multifilamentoverde0.18V-1.webp"
         ],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -1200,7 +1191,7 @@
           "multifilamentoamarillo0.18V-2.webp",
           "multifilamentoamarillo0.18V-1.webp"
         ],
-        "precio": 3900,
+        "precio": 4290,
         "cantidad": 1
       },
       {
@@ -1231,17 +1222,7 @@
           "reelFrontalBlackWidow4006-2.webp",
           "reelFrontalBlackWidow4006-3.webp"
         ],
-        "imagenesVertical": [
-          "reelfrontalcasterblackwidowV-1.webp",
-          "reelfrontalcasterblackwidowV-2.webp",
-          "reelfrontalcasterblackwidowV-3.webp",
-          "reelfrontalcasterblackwidowV-4.webp",
-          "reelfrontalcasterblackwidowV-5.webp",
-          "reelfrontalcasterblackwidowV-6.webp",
-          "reelfrontalcasterblackwidowV-7.webp",
-          "reelfrontalcasterblackwidowV-8.webp"
-        ],
-        "precio": 35900,
+        "precio": 39490,
         "cantidad": 1
       },
       {
@@ -1266,7 +1247,7 @@
           "combatfrogV-2.webp",
           "combatfrogV-3.webp"
         ],
-        "precio": 2100,
+        "precio": 2310,
         "cantidad": 1
       },
       {
@@ -1286,11 +1267,7 @@
         "imagenes": [
           "senueloLunkerFrog-1.webp"
         ],
-        "imagenesVertical": [
-          "lunkerfrogV-1.webp",
-          "lunkerfrogV-2.webp"
-        ],
-        "precio": 2900,
+        "precio": 3190,
         "cantidad": 1
       },
       {
@@ -1319,7 +1296,7 @@
           "rivershadV-2.webp",
           "rivershadV-3.webp"
         ],
-        "precio": 5900,
+        "precio": 6490,
         "cantidad": 1
       },
       {
@@ -1342,7 +1319,7 @@
           "casterflexV-1.webp",
           "casterflexV-2.webp"
         ],
-        "precio": 41500,
+        "precio": 45830,
         "cantidad": 1
       },
       {
@@ -1366,7 +1343,7 @@
           "froggyV-1.webp",
           "froggyV-2.webp"
         ],
-        "precio": 2200,
+        "precio": 2420,
         "cantidad": 1
       },
       {
@@ -1384,11 +1361,7 @@
         "imagenes": [
           "cucharaGiratoria03-1.webp"
         ],
-        "imagenesVertical": [
-          "cucharacaster03V-1.webp",
-          "cucharacaster03V-2.webp"
-        ],
-        "precio": 2700,
+        "precio": 2970,
         "cantidad": 1
       },
       {
@@ -1470,26 +1443,6 @@
       },
       {
         "tipo": "señuelos",
-        "nombre": "Señuelo 2.8cm",
-        "descripcion": [
-          "medidas: 2.8cm",
-          "peso: 1.5g",
-          "Consulte por mas colores disponibles!"
-        ],
-        "stock": "stock disponible",
-        "codigo": "PESCALR004",
-        "imagenes": [
-          "senuelo_LR004.webp"
-        ],
-        "imagenesVertical": [
-          "senuelolr004V-1.webp",
-          "senuelolr004V-2.webp"
-        ],
-        "precio": 1500,
-        "cantidad": 1
-      },
-      {
-        "tipo": "señuelos",
         "nombre": "Señuelo 6.5cm",
         "descripcion": [
           "medidas: 6.5cm",
@@ -1566,54 +1519,7 @@
         "precio": 5300,
         "cantidad": 1
       },
-      {
-        "tipo": "combos",
-        "nombre": "Combo BaitCasting 1",
-        "descripcion": [
-          "Reel huevito Caster Pro 110 Unlimited",
-          "Caña Caster BlackFighter 1.80mt"
-        ],
-        "stock": "stock disponible",
-        "marca": "caster",
-        "envioGratis": "true",
-        "codigo": "PESCA0050",
-        "imagenes": [
-          "combobaitcast-1.webp",
-          "reelHuevitoUnlimited-1.webp",
-          "caniaBlackFighter-BC1802M-1.webp"
-        ],
-        "imagenesVertical": [
-          "unlimited110V-8.webp",
-          "unlimited110V-5.webp",
-          "unlimited110V-6.webp",
-          "caniablackfighterV-1.webp"
-        ],
-        "precio": 79200,
-        "cantidad": 1
-      },
-      {
-        "tipo": "combos",
-        "nombre": "Combo BaitCasting 3",
-        "descripcion": [
-          "Reel Huevito Beast",
-          "Caña Caster BlackFighter 1.80mt"
-        ],
-        "stock": "stock disponible",
-        "marca": "caster",
-        "codigo": "PESCA0033",
-        "imagenes": [
-          "combobaitcast-3.webp",
-          "reelHuevoMonster-1.webp",
-          "caniaBlackFighter-BC1802M-1.webp"
-        ],
-        "imagenesVertical": [
-          "reelhuevomonsterV-6.webp",
-          "caniablackfighterV-1.webp",
-          "reelhuevomonsterV-4.webp"
-        ],
-        "precio": 39900,
-        "cantidad": 1
-      },
+      
       {
         "tipo": "reel",
         "nombre": "Reel Abu Garcia Black Max 3 BaitCasting Drag 8kg",
@@ -1673,8 +1579,102 @@
         ],
         "precio": 0,
         "cantidad": 1
+      },
+      {
+        "tipo": "reel",
+        "nombre": "Reel Huevito CASTER Unlimited Pro 110 Bait Casting 10 Rulemanes 7.2:1",
+        "descripcion": [
+          "Mano: Derecha",
+          "9 + 1 RULEMANES blindados de acero inoxidable MaxiDur™",
+          "Relación de giro de alta velocidad: 7.2:1",
+          "Capacidad mm/m: multifilamento 0.18/100 - monofilamento 0.30/120",
+          "Peso: 205 gramos",
+          "Max Drag: 18 libras",
+          "Engranaje y piñon de bronce",
+          "Freno magnético de 10 imanes con regulación externa",
+          "Alarma automática de salida de línea (chicharra)",
+          "Sistema de desarme rápido de tapa lateral",
+          "Cuerpo de bajo perfil construido en grafito de alta resistencia GraphMax™",
+          "Carretel de aluminio CNC forjado y alivianado",
+          "Manija doble de aluminio CNC reforzada y alivianada con empuñaduras de goma eva",
+          "Devanador automático sincronizado en forma ovalada para evitar la fricción en el lanzamiento"
+        ],
+        "stock": "Agotado",
+        "marca": "caster",
+        "envioGratis": "true",
+        "codigo": "PESCA0011",
+        "imagenes": [
+          "reelHuevitoUnlimited-1.webp",
+          "reelHuevitoUnlimited-2.webp"
+        ],
+  
+        "precio": 0,
+        "cantidad": 1
+      },
+      {
+        "codigo": "",
+        "marca": "",
+        "tipo": "",
+        "precio": 0,
+        "nombre": "",
+        "descripcion": [],
+        "stock": "nuevo ingreso",
+        "imagenes": [],
+        "cantidad": 1
+      },
+      {
+        "codigo": "PESCA0037",
+        "tipo": "reel",
+        "nombre": "Reel Frontal BEAST SE200 Pejerrey Spinning Variada Rio 3 Rulemanes",
+        "descripcion": [
+          "3 RULEMANES",
+          "Radio de giro: 5.2:1",
+          "Capacidad de monofilamento mm/m: 0.18/245 - 0.20/200 - 0.25/125",
+          "Incluye carga de nylon",
+          "Max drag: 3 kg",
+          "Peso: 155 gramos",
+          "Sistema de freno delantero",
+          "Cuerpo y carretel construidos en grafito",
+          "Manija de grafito intercambiable izquierda/derecha",
+          "Tipo de caña utilizable: Spinning",
+          "Modalidades de pesca: Variada liviana en río y laguna"
+        ],
+        "stock": "Agotado",
+        "marca": "beast",
+        "imagenes": [
+          "SE200-YELLOW_11zon.webp"
+        ],
+        "imagenesVertical": [],
+        "precio": 0,
+        "cantidad": 1
+      },
+      {
+        "tipo": "combos",
+        "nombre": "Combo BaitCasting 1",
+        "descripcion": [
+          "Reel huevito Caster Pro 110 Unlimited",
+          "Caña Caster BlackFighter 1.80mt"
+        ],
+        "stock": "Agotado",
+        "marca": "caster",
+        "envioGratis": "true",
+        "codigo": "PESCA0050",
+        "imagenes": [
+          "combobaitcast-1.webp",
+          "reelHuevitoUnlimited-1.webp",
+          "caniaBlackFighter-BC1802M-1.webp"
+        ],
+        "imagenesVertical": [
+          "unlimited110V-8.webp",
+          "unlimited110V-5.webp",
+          "unlimited110V-6.webp",
+          "caniablackfighterV-1.webp"
+        ],
+        "precio": 0,
+        "cantidad": 1
       }
-      
+    
+ 
     ],
     "electronica": []
   }
