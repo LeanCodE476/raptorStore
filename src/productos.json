@@ -685,18 +685,7 @@
         "precio": 9300,
         "cantidad": 1
       },
-      {
-        "codigo": "8529-50",
-        "tipo": "nylon",
-        "nombre": "  Nylon 0,50mm x unidad x 100m",
-        "descripcion": [],
-        "stock": "nuevo ingreso",
-        "marca": "redfish",
-        "imagenes": ["nylon_redfish.webp"],
-        "imagenesVertical": [],
-        "precio": 1900,
-        "cantidad": 1
-      },
+  
       {
         "codigo": "8529-40",
         "tipo": "nylon",
@@ -1532,6 +1521,18 @@
           "abugarciaV-8.webp"
         ],
         "precio": 0,
+        "cantidad": 1
+      },
+      {
+        "codigo": "8529-50",
+        "tipo": "nylon",
+        "nombre": "  Nylon 0,50mm x unidad x 100m",
+        "descripcion": [],
+        "stock": "Agotado",
+        "marca": "redfish",
+        "imagenes": ["nylon_redfish.webp"],
+        "imagenesVertical": [],
+        "precio": 1900,
         "cantidad": 1
       },
       {
