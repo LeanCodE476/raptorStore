@@ -272,27 +272,31 @@
         "cantidad": 1
       },
       {
-        "tipo": "leaders",
-        "nombre": "Cable De Acero Leaders Armados CASTER 15cm 20 Lb x 10 Unidades",
+        "codigo": "PESCA0037",
+        "tipo": "reel",
+        "nombre": "Reel Frontal BEAST SE200 Pejerrey Spinning Variada Rio 3 Rulemanes",
         "descripcion": [
-          "Cable de acero armado con esmerillón y mosquetón de acero inoxidable",
-          "Ideal para pesca de peces depredadores con carnada",
-          "Resistencia: 20 libras",
-          "Medida: 15cm",
-          "Color: plata",
-          "Presentación: bolsita de 10 unidades"
+          "3 RULEMANES",
+          "Radio de giro: 5.2:1",
+          "Capacidad de monofilamento mm/m: 0.18/245 - 0.20/200 - 0.25/125",
+          "Incluye carga de nylon",
+          "Max drag: 3 kg",
+          "Peso: 155 gramos",
+          "Sistema de freno delantero",
+          "Cuerpo y carretel construidos en grafito",
+          "Manija de grafito intercambiable izquierda/derecha",
+          "Tipo de caña utilizable: Spinning",
+          "Modalidades de pesca: Variada liviana en río y laguna"
         ],
-        "stock": "stock disponible",
-        "marca": "caster",
-        "codigo": "PESCA0005",
+        "stock": "nuevo ingreso",
+        "marca": "beast",
         "imagenes": [
-          "leader15CM-1.webp"
+          "SE200-YELLOW_11zon.webp"
         ],
-  
-        "precio": 3190,
+        "imagenesVertical": [],
+        "precio": 8700,
         "cantidad": 1
       },
-     
       {
         "codigo": "PESCA943",
         "tipo": "señuelos",
@@ -713,9 +717,7 @@
         "descripcion": [],
         "stock": "nuevo ingreso",
         "marca": "redfish",
-        "imagenes": [
-          "nylon_redfish.webp"
-        ],
+        "imagenes": ["nylon_redfish.webp"],
         "imagenesVertical": [],
         "precio": 1900,
         "cantidad": 1
@@ -1579,102 +1581,8 @@
         ],
         "precio": 0,
         "cantidad": 1
-      },
-      {
-        "tipo": "reel",
-        "nombre": "Reel Huevito CASTER Unlimited Pro 110 Bait Casting 10 Rulemanes 7.2:1",
-        "descripcion": [
-          "Mano: Derecha",
-          "9 + 1 RULEMANES blindados de acero inoxidable MaxiDur™",
-          "Relación de giro de alta velocidad: 7.2:1",
-          "Capacidad mm/m: multifilamento 0.18/100 - monofilamento 0.30/120",
-          "Peso: 205 gramos",
-          "Max Drag: 18 libras",
-          "Engranaje y piñon de bronce",
-          "Freno magnético de 10 imanes con regulación externa",
-          "Alarma automática de salida de línea (chicharra)",
-          "Sistema de desarme rápido de tapa lateral",
-          "Cuerpo de bajo perfil construido en grafito de alta resistencia GraphMax™",
-          "Carretel de aluminio CNC forjado y alivianado",
-          "Manija doble de aluminio CNC reforzada y alivianada con empuñaduras de goma eva",
-          "Devanador automático sincronizado en forma ovalada para evitar la fricción en el lanzamiento"
-        ],
-        "stock": "Agotado",
-        "marca": "caster",
-        "envioGratis": "true",
-        "codigo": "PESCA0011",
-        "imagenes": [
-          "reelHuevitoUnlimited-1.webp",
-          "reelHuevitoUnlimited-2.webp"
-        ],
-  
-        "precio": 0,
-        "cantidad": 1
-      },
-      {
-        "codigo": "",
-        "marca": "",
-        "tipo": "",
-        "precio": 0,
-        "nombre": "",
-        "descripcion": [],
-        "stock": "nuevo ingreso",
-        "imagenes": [],
-        "cantidad": 1
-      },
-      {
-        "codigo": "PESCA0037",
-        "tipo": "reel",
-        "nombre": "Reel Frontal BEAST SE200 Pejerrey Spinning Variada Rio 3 Rulemanes",
-        "descripcion": [
-          "3 RULEMANES",
-          "Radio de giro: 5.2:1",
-          "Capacidad de monofilamento mm/m: 0.18/245 - 0.20/200 - 0.25/125",
-          "Incluye carga de nylon",
-          "Max drag: 3 kg",
-          "Peso: 155 gramos",
-          "Sistema de freno delantero",
-          "Cuerpo y carretel construidos en grafito",
-          "Manija de grafito intercambiable izquierda/derecha",
-          "Tipo de caña utilizable: Spinning",
-          "Modalidades de pesca: Variada liviana en río y laguna"
-        ],
-        "stock": "Agotado",
-        "marca": "beast",
-        "imagenes": [
-          "SE200-YELLOW_11zon.webp"
-        ],
-        "imagenesVertical": [],
-        "precio": 0,
-        "cantidad": 1
-      },
-      {
-        "tipo": "combos",
-        "nombre": "Combo BaitCasting 1",
-        "descripcion": [
-          "Reel huevito Caster Pro 110 Unlimited",
-          "Caña Caster BlackFighter 1.80mt"
-        ],
-        "stock": "Agotado",
-        "marca": "caster",
-        "envioGratis": "true",
-        "codigo": "PESCA0050",
-        "imagenes": [
-          "combobaitcast-1.webp",
-          "reelHuevitoUnlimited-1.webp",
-          "caniaBlackFighter-BC1802M-1.webp"
-        ],
-        "imagenesVertical": [
-          "unlimited110V-8.webp",
-          "unlimited110V-5.webp",
-          "unlimited110V-6.webp",
-          "caniablackfighterV-1.webp"
-        ],
-        "precio": 0,
-        "cantidad": 1
       }
-    
- 
+      
     ],
     "electronica": []
   }
